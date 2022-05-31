@@ -10,7 +10,7 @@ using System.Web.UI.HtmlControls;
 using DevExpress.XtraPivotGrid;
 using DevExpress.Web.ASPxPivotGrid;
 using System.Drawing;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 public partial class _Default : System.Web.UI.Page 
 {

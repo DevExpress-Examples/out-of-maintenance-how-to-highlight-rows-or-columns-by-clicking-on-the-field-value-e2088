@@ -11,7 +11,7 @@ Imports System.Web.UI.HtmlControls
 Imports DevExpress.XtraPivotGrid
 Imports DevExpress.Web.ASPxPivotGrid
 Imports System.Drawing
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 
 Partial Public Class _Default
 	Inherits System.Web.UI.Page
